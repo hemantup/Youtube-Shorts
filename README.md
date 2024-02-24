@@ -1,6 +1,6 @@
 # YouTube Shorts Mimic App
 
-![App Screenshot](Screenshot/ss1.png)
+![App Screenshot](Screenshots/ss1.png)
 
 ## Overview
 
@@ -18,12 +18,12 @@ Download the debug apk from Apk folder to install the app or you can build the a
 
 ## Screenshots
 
-![App Screenshot 1](Screenshot/ss2.png)
-![App Screenshot 2](Screenshot/ss3.png)
+![App Screenshot 1](Screenshots/ss2.png)
+![App Screenshot 2](Screenshots/ss3.png)
 
 ## Demo
 
-![App Demo](Screenshot/vid1.mp4)
+![App Demo](Screenshots/vid1.mp4)
 
 ## Project Setup
 
