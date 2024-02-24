@@ -1,6 +1,8 @@
 # YouTube Shorts Mimic App
 
-![App Screenshot](Screenshots/ss1.jpg)
+<div align="center">
+    <img src="Screenshots/ss1.jpg" alt="App Screenshot 1" width="300"/>
+</div>
 
 ## Overview
 
@@ -18,8 +20,10 @@ Download the debug apk from Apk folder to install the app or you can build the a
 
 ## Screenshots
 
-![App Screenshot 1](Screenshots/ss2.jpg)
-![App Screenshot 2](Screenshots/ss3.jpg)
+<div align="center">
+    <img src="Screenshots/ss2.jpg" alt="App Screenshot 1" width="300"/>
+    <img src="Screenshots/ss3.jpg" alt="App Screenshot 2" width="300"/>
+</div>
 
 ## Demo
 
